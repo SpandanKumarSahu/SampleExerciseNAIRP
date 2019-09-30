@@ -1,0 +1,12 @@
+{
+    "courseID": 0, 
+    "url": "https://www.github.com/spandankumarsahu/SampleExerciseNAIRP.git", 
+    "exerciseID": 0, 
+    "eval_type": 0, 
+    "prereq_pip": [
+        "pandas", 
+        "numpy"
+    ], 
+    "type": 0, 
+    "prereq_apt": []
+}
